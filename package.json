@@ -12,11 +12,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@sveltejs/adapter-static": "^3.0.0",
+    "@sveltejs/adapter-static": "^3.0.10",
     "@sveltejs/kit": "^2.0.0",
     "@sveltejs/vite-plugin-svelte": "^5.0.0",
     "sass": "^1.97.3",
-    "svelte": "^5.0.0",
+    "svelte": "^5.53.2",
     "vite": "^6.0.0"
   },
   "type": "module"
